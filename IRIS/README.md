@@ -20,3 +20,6 @@ You can install the required dependencies using pip:
 pip install scikit-learn
 pip install sklearn
 pip install numpy
+```
+
+Our Model predicting the output with the Accuracy of 96.66666666666667
